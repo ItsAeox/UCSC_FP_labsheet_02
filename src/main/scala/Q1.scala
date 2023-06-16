@@ -1,4 +1,4 @@
-@main def main: Unit =
+@main def question_01: Unit =
     val k, i, j = 2
     val m, n = 5
     val f = 12.0f
