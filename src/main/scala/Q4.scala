@@ -4,8 +4,7 @@
 
 def tot_inc(price:Double, num:Int):Double = 
     val tot = price*num - (500 + 3*num)
-    println(s"Price : $price")
-    println(s"Profit : $tot")
+    println(s"Price : $price \t Profit : $tot\n")
     0
 
 def check(price:Double, num:Int):Double = 
