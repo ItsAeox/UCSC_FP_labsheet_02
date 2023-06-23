@@ -14,7 +14,6 @@
     val temp3 = inc(c) * inc(a)
     println(temp3)
 
-
 def inc(a: Double): Double = a + 1
 
 def dec(a: Double): Double = a - 1
